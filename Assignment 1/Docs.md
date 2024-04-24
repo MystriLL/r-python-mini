@@ -1,4 +1,4 @@
-# Jakub Borek, 310604, Praca domowa 1
+# Assignment 1
 
 ## Wstęp
 Celem projektu było przetestowanie i zaprezentowanie działania czterech metod pozwalajacych na wykonanie zapytania SQL w jezyku R. Były to:
@@ -14,7 +14,7 @@ Poniżej przedstawiona jest konfiguracja środowiska testowego i funkcje pomocni
 ### Wczytanie danych
 ```
 # Load functions from file
-source("Jakub_Borek_PD1.r")
+source("Assignment1.r")
 
 # Load files
 Posts <- read.csv("./Posts.csv")

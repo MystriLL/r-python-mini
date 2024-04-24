@@ -1,19 +1,3 @@
-### Przetwarzanie danych w językach R i Python 2024L
-### Praca domowa nr. 1 / Homework Assignment no. 1
-###
-### WAŻNE
-### Ten plik powinien zawierać tylko rozwiązania zadań w postaci
-### definicji funkcji, załączenia niezbędnych bibliotek
-### i komentarzy do kodu.
-###
-### Raport powinien zawierać:
-### * source() tego pliku,
-### * odczytanie danych,
-### * dołączenie bibliotek,
-### * pomiary czasu wykonania (z mikrobenchmarkiem),
-### * porównanie równoważności wyników,
-### * interpretację zapytań.
-
 # -----------------------------------------------------------------------------#
 # Task 1
 # -----------------------------------------------------------------------------#

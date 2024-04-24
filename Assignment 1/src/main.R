@@ -1,5 +1,5 @@
 # Load functions from file
-source("Jakub_Borek_PD1.r")
+source("Assigment1.r")
 
 # Load files
 Posts <- read.csv("./Posts.csv")
